@@ -108,10 +108,10 @@ function dataPrinterById(req,res)
 {
     const getId=req.params.id;
     
-    console.log('Payload object is: '+JSON.stringify(req));
-    for(let i=0;i<data.length;i++)
+    console.log('Payload object is: '+getId);
+    for(let i=0;i<mobileData.length;i++)
     {
-        if(data[i].id==getId)
+        if(mobileData[i].id==getId)
         {
             res.json(mobileData[i]);
             return; // return after sending response
