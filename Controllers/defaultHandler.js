@@ -5,8 +5,6 @@ function welcome(req,res)
     // res.send(JSON.stringify(data));  OR
     res.send("Welcome")
 }
-
-
 //Default Non Existent Page Message
 function defaultHandler(req,res)
 {
@@ -14,5 +12,4 @@ function defaultHandler(req,res)
     // res.send(JSON.stringify(data));  OR
     res.send("!!! Page Does Not Exist !!!")
 }
-
 module.exports={welcome,defaultHandler};

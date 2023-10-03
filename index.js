@@ -1,5 +1,5 @@
-const dataRouter=require('../Node JS API/Routes/mobileDataRouter');
-const defaultRouter=require('../Node JS API/Routes/defaultHandlerRouter');
+const dataRouter=require('../Routes/mobileDataRouter');
+const defaultRouter=require('../Routes/defaultHandlerRouter');
 
 const express = require('express');
 const app=express();
