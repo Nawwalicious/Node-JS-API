@@ -4,7 +4,9 @@ const defaultRouter=require('../Node JS API/Routes/defaultHandlerRouter');
 const express = require('express');
 const app=express();
 
-app.listen(7000,()=>{console.log("Server Running")});
+const PORT=process.env.PORT||7000;
+
+app.listen(PORT,()=>{console.log("Server Running")});
 
 app.use(express.json());
 
