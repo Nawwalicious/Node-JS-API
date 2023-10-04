@@ -90,6 +90,20 @@ const mobileData =
         model:"Nord 2",
         image:"https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-2-5g-new.jpg",
         price:"349"
+    },
+    {
+        id:"14",
+        brand:"Microsoft",
+        model:"Surface Duo",
+        image:"https://fdn2.gsmarena.com/vv/bigpic/microsoft-surface-duo.jpg",
+        price:"799"
+    },
+    {
+        id:"15",
+        brand:"Microsoft",
+        model:"Surface Duo 2",
+        image:"https://fdn2.gsmarena.com/vv/bigpic/microsoft-surface-duo2.jpg",
+        price:"899"
     }
 ]
 // Product Detail Data Above
