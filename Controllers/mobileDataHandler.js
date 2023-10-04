@@ -54,21 +54,21 @@ const mobileData =
         brand:"Google",
         model:"Pixel 7a",
         image:"https://fdn2.gsmarena.com/vv/bigpic/google-pixel-7a.jpg",
-        price:"1499"
+        price:"599"
     },
     {
         id:"9",
         brand:"Google",
         model:"Pixel 7",
         image:"https://fdn2.gsmarena.com/vv/bigpic/google-pixel7-new.jpg",
-        price:"1499"
+        price:"799"
     },
     {
         id:"10",
         brand:"Google",
         model:"Pixel 7 Pro",
         image:"https://fdn2.gsmarena.com/vv/bigpic/google-pixel7-pro-new.jpg",
-        price:"1499"
+        price:"999"
     },
     {
         id:"11",
