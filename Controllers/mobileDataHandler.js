@@ -104,6 +104,20 @@ const mobileData =
         model:"Surface Duo 2",
         image:"https://fdn2.gsmarena.com/vv/bigpic/microsoft-surface-duo2.jpg",
         price:"899"
+    },
+    {
+        id:"16",
+        brand:"Nothing",
+        model:"Phone (1)",
+        image:"https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-1.jpg",
+        price:"499"
+    },
+    {
+        id:"17",
+        brand:"Nothing",
+        model:"Phone (2)",
+        image:"https://fdn2.gsmarena.com/vv/bigpic/nothing-phone2_.jpg",
+        price:"599"
     }
 ]
 // Product Detail Data Above
