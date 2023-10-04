@@ -7,7 +7,7 @@ const app=express();
 
 const PORT=process.env.PORT||7000;
 
-app.use(cors({ origin: "http://localhost:5173", })); 
+app.use(cors({ origin: "*", })); 
 //To FIX The Error
 //{ blocked by CORS policy: No ['Access-Control-Allow-Origin'] header is present on the requested resource }
 
