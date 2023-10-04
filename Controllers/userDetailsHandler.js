@@ -16,4 +16,4 @@ function userDetails(req,res)
     res.json(userData);
 }
 
-module.exports=userDetails;
+module.exports={userDetails};
