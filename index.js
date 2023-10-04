@@ -17,6 +17,7 @@ app.listen(PORT,()=>{console.log("Server Running")});
 app.use(express.json());
 
 app.use(dataRouter);
-app.use(defaultRouter);
 app.use(userRouter);
+app.use(defaultRouter);
+
 
