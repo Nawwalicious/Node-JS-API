@@ -3,77 +3,77 @@ const mobileData =
     {
         id:"1",
         brand:"Samsung",
-        model:"s23",
+        model:"S23",
         image:"https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s23-5g.jpg",
         price:"799"
     },
     {
         id:"2",
         brand:"Samsung",
-        model:"s23-plus",
+        model:"S23 Plus",
         image:"https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s23-plus-5g.jpg",
         price:"999"
     },
     {
         id:"3",
         brand:"Samsung",
-        model:"s23-ultra",
+        model:"S23 Ultra",
         image:"https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s23-ultra-5g.jpg",
         price:"1199"
     },
     {
         id:"4",
         brand:"Apple",
-        model:"iPhone-15",
+        model:"iPhone 15",
         image:"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15.jpg",
         price:"899"
     },
     {
         id:"5",
         brand:"Apple",
-        model:"iPhone-15-plus",
+        model:"iPhone 15 Plus",
         image:"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-plus-.jpg",
         price:"999"
     },
     {
         id:"6",
         brand:"Apple",
-        model:"iPhone-15-pro",
+        model:"iPhone 15 Pro",
         image:"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro.jpg",
         price:"1199"
     },
     {
         id:"7",
         brand:"Apple",
-        model:"iPhone-15-pro-max",
+        model:"iPhone 15 Pro Max",
         image:"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro-max.jpg",
         price:"1499"
     },
     {
         id:"8",
         brand:"Google",
-        model:"pixel-7-a",
+        model:"Pixel 7a",
         image:"https://fdn2.gsmarena.com/vv/bigpic/google-pixel-7a.jpg",
         price:"1499"
     },
     {
         id:"9",
         brand:"Google",
-        model:"pixel-7",
+        model:"Pixel 7",
         image:"https://fdn2.gsmarena.com/vv/bigpic/google-pixel7-new.jpg",
         price:"1499"
     },
     {
         id:"10",
         brand:"Google",
-        model:"pixel-7-pro",
+        model:"Pixel 7 Pro",
         image:"https://fdn2.gsmarena.com/vv/bigpic/google-pixel7-pro-new.jpg",
         price:"1499"
     },
     {
         id:"11",
         brand:"OnePlus",
-        model:"nord-3",
+        model:"Nord 3",
         image:"https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-3r.jpg",
         price:"399"
     },
@@ -87,7 +87,7 @@ const mobileData =
     {
         id:"13",
         brand:"OnePlus",
-        model:"nord-2",
+        model:"Nord 2",
         image:"https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-2-5g-new.jpg",
         price:"349"
     }
