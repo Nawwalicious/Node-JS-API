@@ -1,5 +1,6 @@
 const dataRouter=require('./Routes/mobileDataRouter');
 const defaultRouter=require('./Routes/defaultHandlerRouter');
+const userRouter=require('./Routes/userDetailsRouter');
 
 const express = require('express');
 const cors=require("cors");
@@ -16,5 +17,6 @@ app.listen(PORT,()=>{console.log("Server Running")});
 app.use(express.json());
 
 app.use(dataRouter);
-app.use(defaultRouter)
+app.use(defaultRouter);
+app.use(userRouter);
 
