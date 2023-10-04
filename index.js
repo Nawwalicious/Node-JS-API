@@ -2,13 +2,13 @@ const dataRouter=require('./Routes/mobileDataRouter');
 const defaultRouter=require('./Routes/defaultHandlerRouter');
 
 const express = require('express');
+const cors=require("cors");
 const app=express();
 
 const PORT=process.env.PORT||7000;
 
 const getOrigin = () => {
-    const port = process.env.PORT || 7000;
-    return `http://localhost:${port}/`;
+    return `http://localhost:5173/`;
 }
 
 app.use(cors({ origin: getOrigin() })); 
