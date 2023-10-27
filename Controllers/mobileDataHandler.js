@@ -93,32 +93,74 @@ const mobileData =
     },
     {
         id:"14",
+        brand:"OnePlus",
+        model:"11R",
+        image:"https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace2.jpg",
+        price:"449"
+    },
+    {
+        id:"15",
+        brand:"OnePlus",
+        model:"Open",
+        image:"https://fdn2.gsmarena.com/vv/bigpic/oneplus-open-10.jpg",
+        price:"1699"
+    },
+    {
+        id:"16",
         brand:"Microsoft",
         model:"Surface Duo",
         image:"https://fdn2.gsmarena.com/vv/bigpic/microsoft-surface-duo.jpg",
         price:"799"
     },
     {
-        id:"15",
+        id:"17",
         brand:"Microsoft",
         model:"Surface Duo 2",
         image:"https://fdn2.gsmarena.com/vv/bigpic/microsoft-surface-duo2.jpg",
         price:"899"
     },
     {
-        id:"16",
+        id:"18",
         brand:"Nothing",
         model:"Phone (1)",
         image:"https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-1.jpg",
         price:"499"
     },
     {
-        id:"17",
+        id:"19",
         brand:"Nothing",
         model:"Phone (2)",
         image:"https://fdn2.gsmarena.com/vv/bigpic/nothing-phone2_.jpg",
         price:"599"
-    }
+    },
+    {
+        id:"20",
+        brand:"Apple",
+        model:"iPhone 14",
+        image:"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14.jpg",
+        price:"749"
+    },
+    {
+        id:"21",
+        brand:"Apple",
+        model:"iPhone 14 Plus",
+        image:"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-plus.jpg",
+        price:"849"
+    },
+    {
+        id:"22",
+        brand:"Apple",
+        model:"iPhone 14 Pro",
+        image:"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro.jpg",
+        price:"999"
+    },
+    {
+        id:"23",
+        brand:"Apple",
+        model:"iPhone 14 Pro Max",
+        image:"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg",
+        price:"1199"
+    },
 ]
 // Product Detail Data Above
 
